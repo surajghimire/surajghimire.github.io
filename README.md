@@ -3,7 +3,7 @@
 ## Hello, Welcome to the Portfolio of Suraj Ghimire
 ![alt text][banner]
 
-[banner] : https://github.com/surajghimire/surajghimire.github.io/tree/main/src/common/images/linkedin_suraj_banner1.png "Suraj Ghimire Banner"
+[banner] : src/common/images/linkedin_suraj_banner1.png "Suraj Ghimire Banner"
 
 I am on the process of updating this portfolio websites, so I can convey detailed informations about projects and the list of technical blogs I write.
 
