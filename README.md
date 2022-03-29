@@ -1,7 +1,9 @@
 # surajghimire.github.io
 
-Hello, Welcome to the Portfolio of Suraj Ghimire
-![alt text](https://github.com/surajghimire/surajghimire.github.io/tree/main/src/common/images/linkedin_suraj_banner1.png "Suraj Ghimire Banner")
+## Hello, Welcome to the Portfolio of Suraj Ghimire
+![alt text][banner]
+
+[banner] : https://github.com/surajghimire/surajghimire.github.io/tree/main/src/common/images/linkedin_suraj_banner1.png "Suraj Ghimire Banner"
 
 I am on the process of updating this portfolio websites, so I can convey detailed informations about projects and the list of technical blogs I write.
 
@@ -10,7 +12,7 @@ What I am doing these days?
 I completed Master of Science from Grenoble INP Ensimag. 
 I am searching for a position of Data Scientist or Data Analyst.
 
-I recently completed Data Scientist with Python Track and I am on the way to get certified. 
+I recently completed **Data Scientist with Python Track**. 
 Few projects I worked on Datacamp are:
 Accomplishment Certificate [here](https://www.datacamp.com/statement-of-accomplishment/track/043fd182cbc7a907f926a2e4838ced45b972a62a)
 1. Investigating Netflix Movies and Guest Stars in the Office.
