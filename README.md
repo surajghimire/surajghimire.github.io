@@ -1,9 +1,10 @@
 # surajghimire.github.io
 
 ## Hello, Welcome to the Portfolio of Suraj Ghimire
-![alt text][banner]
 
-[banner] : src/common/images/linkedin_suraj_banner1.png "Suraj Ghimire Banner"
+
+![linkedin_suraj_banner1](https://user-images.githubusercontent.com/13273204/160704678-d2a93c7f-ac40-4341-86da-8bc184f69881.png)
+
 
 I am on the process of updating this portfolio websites, so I can convey detailed informations about projects and the list of technical blogs I write.
 
