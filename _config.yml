@@ -1,0 +1,11 @@
+title: Suraj Ghimire # your name (or website title) here
+logo: "/images/suraj.jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+Hello, Welcome to the Portfolio of Suraj Ghimire
+  <br><br>
+I am on the process of updating this portfolio websites, so I can convey detailed informations about projects and the list of technical blogs I write.
+  <br><br>
+  <a href="https://www.linkedin.com/in/surajghimire03/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here

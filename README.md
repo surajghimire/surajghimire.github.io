@@ -1,31 +1,51 @@
-# surajghimire.github.io
+## Developer Portfolio Landing Page Template
 
-## Hello, Welcome to the Portfolio of Suraj Ghimire
+### Introduction
 
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-![linkedin_suraj_banner1](https://user-images.githubusercontent.com/13273204/160704678-d2a93c7f-ac40-4341-86da-8bc184f69881.png)
+<img src="images/demo.gif?raw=true"/>
 
+### Installation
 
-I am on the process of updating this portfolio websites, so I can convey detailed informations about projects and the list of technical blogs I write.
+See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+___
 
-What I am doing these days?
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-I completed Master of Science from Grenoble INP Ensimag. 
-I am searching for a position of Data Scientist or Data Analyst.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-I recently completed **Data Scientist with Python Track**. 
-Few projects I worked on Datacamp are:
-Accomplishment Certificate [here](https://www.datacamp.com/statement-of-accomplishment/track/043fd182cbc7a907f926a2e4838ced45b972a62a)
-1. Investigating Netflix Movies and Guest Stars in the Office.
-2. The Android App Market on Google Play
-3. The GitHub History of the Scala Language
-4. A Visual History of Nobel Prize Winners
-5. Predicting Credit Card Approvals
+### Markdown
 
-Get connected to my [LinkedIn](https://www.linkedin.com/in/surajghimire03/)
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-For homepage of my blog, please visit  [Suraj Ghimire Home Page](https://surajghimire.com)
+```markdown
+Syntax highlighted code block
 
-For my general blog, please visit [Suraj Ghimire Medium](https://medium.com/@thesurajblog)
+# Header 1
+## Header 2
+### Header 3
 
-See you soon with a new website.
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Roadmap
+
+See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
+___
+
+### References
+
+[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
