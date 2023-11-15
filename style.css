@@ -10,9 +10,9 @@
 }
 html{
     scroll-behavior: smooth;
-}
+} 
 
-  
+
   
 /* custom scroll bar */
 ::-webkit-scrollbar {
@@ -71,6 +71,7 @@ section .title::before{
     transform: translateX(-50%);
 }
 section .title::after{
+    content: "";
     position: absolute;
     bottom: -8px;
     left: 50%;
@@ -80,6 +81,21 @@ section .title::after{
     background: white;
     transform: translateX(-50%);
 }
+
+/* <style> */
+    .inline-list {
+        list-style-type: none; /* Remove default list styles */
+        padding: 0; /* Remove default padding */
+    }
+
+    .inline-list li::before {
+        content: '\2022'; /* Unicode character for a small dark circle */
+        color: #000; /* Set color to black */
+        display: inline-block;
+        width: 1em; /* Adjust the width as needed */
+        margin-right: 0.5em; /* Adjust the spacing between the circle and the text */
+    }
+/* </style> */
 
 /* navbar styling */
 .navbar{
@@ -219,11 +235,11 @@ section .title::after{
 }
 
 .testimonials .title::after{
-  content: "references";
+  content: "References";
 }
 /* about section styling */
 .about .title::after{
-    content: "who i am";
+    content: "Something about me, In my own words";
 }
 .about .about-content .left{
     width: 45%;
@@ -452,7 +468,7 @@ section .title::after{
 .skills-gird{
 padding-top: 1rem;
 display: flex;
-align-items: center;
+align-items: top;
 flex-wrap: wrap;
 width: 100%;
 gap: 2.2rem;
@@ -811,7 +827,7 @@ footer span a:hover{
     }
 }
 #experience span.card-title {
-    text-align: center;
+    text-align: top;
     display: block;
   }
   #experience span.card-title a {
@@ -832,7 +848,7 @@ html {
 .services .title::after,
 .teams .title::after{
     /* background: #111; */
-    content: "background";
+    content: "Latest activities first";
 }
 
 *:after {
@@ -883,7 +899,7 @@ html {
 
 .CV-timeline {
     position: relative;
-    margin: -90px 0 0 0.5em;
+    margin: -100px 0 0 0.5em;
     padding-left: 1.5em;
     border-left: solid 1px white;
     /* #008f8f; */
@@ -907,7 +923,7 @@ html {
     height: 1em;
     border: solid 1px w;
     background-color:  white;
-    border-radius: 50%;
+    border-radius: 20%;
 }
 
 .CV-timeline-heading {
@@ -923,7 +939,7 @@ html {
 }
 
 .CV-timeline-heading-title {
-    line-height: 1;
+    line-height: 0.5;
     color: #008f8f;
     font-style: italic;
     text-transform: uppercase;
@@ -1262,4 +1278,5 @@ html {
       opacity: 0;
     }
   }
+  
   
