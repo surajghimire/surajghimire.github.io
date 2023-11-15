@@ -848,7 +848,7 @@ html {
 .services .title::after,
 .teams .title::after{
     /* background: #111; */
-    content: "Latest activities first";
+    content: "Latest activities first (Expand to see detailed JD)";
 }
 
 *:after {
